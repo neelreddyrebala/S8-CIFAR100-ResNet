@@ -5,6 +5,9 @@ __pycache__/
 .env
 .DS_Store
 
+# Datasets
+data/
+
 # Logs / checkpoints
 logs/
 checkpoints/
